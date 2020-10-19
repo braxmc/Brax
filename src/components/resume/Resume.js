@@ -3,7 +3,7 @@ import React from 'react';
 const Resume = () => (
   <>
     <div className='resume-pos'>
-      <img className='resume' src='/resume.png' alt='resume pic' />
+      <img className='resume' src='/images/resume.png' alt='resume pic' />
     </div>
   </>
 )
