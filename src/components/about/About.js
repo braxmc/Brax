@@ -5,6 +5,7 @@ const About = () => (
     <div className='about'>
       <div className='about-info'>
         <h1>Braxton D. McClellan</h1>
+        <br />
         <p>
           I’ve always loved tech, I just never thought I was capable. After realizing my sales days were numbered I decided it was time for a change. I had a friend who had just graduated, got a job, and loved it. After watching him and and talking to countless other graduates I used him as a referral to get into DevPoint Labs who is partnered with the University of Utah in Salt Lake City, UT. I'm keen and very passionate so I'm excited to see where this takes me.
         </p>
@@ -16,24 +17,23 @@ const About = () => (
         <p>
         I will be receiving my Full-Stack Web Development certificate from DevPoint Labs on 10/31/2020.
         </p>
+        <br />
         <div className='list'>
           <h4>Skills</h4>
-          <ul>
-            <li>Rails</li>
-            <li>Javascript</li>
-            <li>ES6</li>
-            <li>React</li>
-            <li>jQuery</li>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>Sass</li>
-            <li>Axios</li>
-            <li>RESTful API</li>
-            <li>Semantic-UI</li>
-            <li>Postgresql</li>
-            <li>Github</li>
-            <li>Virtual Studios</li>
-          </ul>
+            <p>Rails</p>
+            <p>Javascript</p>
+            <p>ES6</p>
+            <p>React</p>
+            <p>jQuery</p>
+            <p>HTML</p>
+            <p>CSS</p>
+            <p>Sass</p>
+            <p>Axios</p>
+            <p>RESTful API</p>
+            <p>Semantic-UI</p>
+            <p>Postgresql</p>
+            <p>Github</p>
+            <p>Virtual Studios</p>
         </div>
       </div>
       <div className='about-pic'>

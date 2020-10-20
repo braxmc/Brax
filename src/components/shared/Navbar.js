@@ -12,7 +12,7 @@ const Navbar = () => {
         <Link className='nav' to='/portfolio'>Portfolio</Link>
         <Link className='nav' to='/about'>About</Link>
         <Link className='nav' to='/resume'>Resume</Link>
-        <Link className='nav' to='/contact'>Contact</Link>
+        {/* <Link className='nav' to='/contact'>Contact</Link> */}
       </div>
     </div>
   )
